@@ -1,0 +1,276 @@
+SN,Name ,Symbol ,Status ,Sector ,Instrument ,Email,Website
+1,Nabil Bank Limited,NABIL,Active,Commercial Banks,Equity,rajesh.bogati@nabilbank.com,
+2,Standard Chartered Bank Limited,SCB,Active,Commercial Banks,Equity,Legal.Nepal@sc.com,
+3,Himalayan Bank Limited,HBL,Active,Commercial Banks,Equity,legal@himalayanbank.com,
+4,Nepal SBI Bank Limited,SBI,Active,Commercial Banks,Equity,cs@nsbl.com.np,https://nsbl.statebank
+5,Everest Bank Limited,EBL,Active,Commercial Banks,Equity,sharedept@ebl.com.np,
+6,NIC Asia Bank Ltd.,NICA,Active,Commercial Banks,Equity,nica.nots@nicasiabank.com,
+7,Machhapuchhre Bank Limited,MBL,Active,Commercial Banks,Equity,machbank@mbl.com.np,http://www.machbank.com
+8,Laxmi Bank Limited,LBL,Active,Commercial Banks,Equity,piyush.aryal@laxmibank.com,
+9,Siddhartha Bank Limited,SBL,Active,Commercial Banks,Equity,laxman.ghimire@sbl.com.np,
+10,Soaltee Hotel Limited,SHL,Active,Hotels And Tourism,Equity,lbkhatri@soaltee.com.np,
+11,Taragaon Regency Hotel Limited,TRH,Active,Hotels And Tourism,Equity,info@taragaon.com,
+12,Oriental Hotels Limited,OHL,Active,Hotels And Tourism,Equity,legal@radkat.com.np,
+13,National Hydro Power Company Limited,NHPC,Active,Hydro Power,Equity,nhpc@nhpc.com,
+14,Butwal Power Company Limited,BPCL,Active,Hydro Power,Equity,hari.budhathoki@bpc.com.np,http://www.bpc.com.np
+15,Chilime Hydropower Company Limited,CHCL,Active,Hydro Power,Equity,narayanprasad.acharya@chilime.com.np,
+16,Salt Trading Corporation,STC,Active,Tradings,Equity,legalstcnepal@gmail.com,
+17,Bishal Bazar Company Limited,BBC,Active,Tradings,Equity,info@bishalbazar.com.np,
+18,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,Active,Microfinance,Equity,info@nirdhan.com,
+19,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,Active,Microfinance,Equity,info@chhimekbank.org,
+20,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,Active,Microfinance,Equity,gyanendra.aryal@ddbank.org.np,
+21,Sanima Bank Limited,SANIMA,Active,Commercial Banks,Equity,sanima@sanimageneral.com,
+22,Narayani Development Bank Limited,NABBC,Active,Development Banks,Equity,info@ndbl.com.np,
+23,Nepal Insurance Co. Ltd.,NICL,Active,Non Life Insurance,Equity,legal@nepalinsurance.com.np,
+24,Rastriya Beema Company Limited,RBCL,Active,Non Life Insurance,Equity,niranjan.acharya@rbcl.gov.np,
+25,National Life Insurance Co. Ltd.,NLICL,Active,Life Insurance,Equity,it@nationallife.com.np,
+26,Himalayan Everest Insurance Limited,HEI,Active,Non Life Insurance,Equity,subindra.shrestha@hei.com.np,
+27,United Insurance Co. (Nepal) Ltd.,UIC,Active,Non Life Insurance,Equity,info@unitedinsurance.com.np,
+28,Neco Insurance Limited,NIL,Active,Non Life Insurance,Equity,bishnu@neco.com.np,http://www.necoinsurance.com.np
+29,IME General Insurance Ltd.,IGI,Active,Non Life Insurance,Equity,compliance@iginepal.com,http://www.iginepal.com
+30,Nepal Life Insurance Co. Ltd.,NLIC,Active,Life Insurance,Equity,info@nepallife.com.np,
+31,Life Insurance Corporation (Nepal) Limited,LICN,Active,Life Insurance,Equity,cs@licnepal.com.np,http://www.licnepal.com.np
+32,Prudential Insurance Co. Ltd.,PICL,Active,Non Life Insurance,Equity,picl@prudential.com.np,http://www.prudential.com.np
+33,Shikhar Insurance Co. Ltd.,SICL,Active,Non Life Insurance,Equity,suraj@shikharinsurance.com                                              ,http://www.shikharinsurance.com
+34,Nepal Finance Ltd.,NFS,Active,Finance,Equity,info@nepalfinance.com.np,
+35,Bottlers Nepal (Balaju) Limited,BNL,Active,Manufacturing And Processing,Equity,prburma@coca-cola.com.np,
+36,Nepal Lube Oil Limited,NLO,Active,Manufacturing And Processing,Equity,g.bhattarai@cg.holdings,
+37,Gurkhas Finance Ltd.,GUFL,Active,Finance,Equity,mukunda@gurkhasfinance.com.np,www.gurkhasfinance.com.np
+38,Citizen Investment Trust,CIT,Active,Investment,Equity,cit.cmkt@gmail.com,
+39,Bottlers Nepal (Terai) Limited,BNT,Active,Manufacturing And Processing,Equity,prburma@coca-cola.com.np,
+40,Unilever Nepal Limited,UNL,Active,Manufacturing And Processing,Equity,unl.shareholdersconnect@unilever.com,
+41,Best Finance Company Ltd.,BFC,Active,Finance,Equity,raj.shrestha@bestfinance.com.np,
+42,Goodwill Finance Limited,GFCL,Active,Finance,Equity,gfcl@gfcl.com,
+43,Himalayan Distillery Limited,HDL,Active,Manufacturing And Processing,Equity,netra.timsina@jginepal.com,
+44,Pokhara Finance Ltd.,PFL,Active,Finance,Equity,buddhilaxmi.gurung@pokharafinance.com.np,
+45,NMB Bank Limited,NMB,Active,Commercial Banks,Equity,pramod.dahal@nmb.com.np,http://www.nmb.com.np
+46,Shree Investment Finance Co. Ltd.,SIFC,Active,Finance,Equity,info@shreefinance.com.np,http://www.shreefinance.com.np
+47,Central Finance Co. Ltd.,CFCL,Active,Finance,Equity,info@centralfinance.com.np,
+48,Janaki Finance Company Limited,JFL,Active,Finance,Equity,janakifinancecompany@yahoo.com,
+49,Prabhu Bank Limited,PRVU,Active,Commercial Banks,Equity,amit.bhandari@prabhubank.com,
+50,Samriddhi Finance Company Limited,SFCL,Active,Finance,Equity,cs@sfcl.com.np,http://www.wmerchantbank.com
+51,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,Active,Finance,Equity,compliance@gmbf.com.np,
+52,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,Active,Microfinance,Equity,dr.shakya@swbbl.com.np,
+53,ICFC Finance Limited,ICFC,Active,Finance,Equity,nepsereport@icfcbank.com,www.icfcbank.com
+54,Excel Development Bank Ltd.,EDBL,Active,Development Banks,Equity,info@edb.com.np,
+55,Nepal Doorsanchar Company Limited,NTC,Active,Others,Equity,cs.nt@ntc.net.np,http://www.ntc.net.np
+56,Progressive Finance Limited,PROFL,Active,Finance,Equity,bishal@pfltd.com.np,http://www.pfltd.com.np
+57,Citizens Bank International Limited,CZBIL,Active,Commercial Banks,Equity,rajendra.shrestha@ctznbank.com,
+58,Prime Commercial Bank Ltd.,PCBL,Active,Commercial Banks,Equity,CS@pcbl.com.np,
+59,Lumbini Bikas Bank Ltd.,LBBL,Active,Development Banks,Equity,hari.subedi@lumbinibikasbank.com,
+60,Sunrise Bank Limited,SRBL,Active,Commercial Banks,Equity,info@sunrisebank.com.np,
+61,Arun Valley Hydropower Development Co. Ltd.,AHPC,Active,Hydro Power,Equity,arunvalley2054@gmail.com,
+62,Miteri Development Bank Limited,MDB,Active,Development Banks,Equity,ramesh@miteribank.com.np,http://www.miteribank.com.np
+63,Asian Life Insurance Co. Limited,ALICL,Active,Life Insurance,Equity,murariraj.humagain@asianlife.com.np,
+64,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,Active,Microfinance,Equity,nerudeprasasan@gmail.com,
+65,Agricultural Development Bank Limited,ADBL,Active,Commercial Banks,Equity,cs@adbl.gov.np,
+66,Mahalaxmi Bikas Bank Ltd.,MLBL,Active,Development Banks,Equity,som.pant@mahalaxmi.com.np,http://www.yetibank.com
+67,Garima Bikas Bank Limited,GBBL,Active,Development Banks,Equity,info@garimabank.com.np,
+68,Jyoti Bikas Bank Limited,JBBL,Active,Development Banks,Equity,krishna.oasti@jbbl.com.np,
+69,Karnali Development Bank Limited,KRBL,Active,Development Banks,Equity,sniraaz@kdblnepal.com,
+70,Corporate Development Bank Limited,CORBL,Active,Development Banks,Equity,info@corporatebank.com.np,
+71,Kamana Sewa Bikas Bank Limited,KSBBL,Active,Development Banks,Equity,cs@kamanasewabank.com,
+72,Multipurpose Finance Company Limited,MPFL,Active,Finance,Equity,mfclfin43@gmail.com,
+73,Shangrila Development Bank Ltd.,SADBL,Active,Development Banks,Equity,info@shangrilabank.com,
+74,Shine Resunga Development Bank Ltd.,SHINE,Active,Development Banks,Equity,info@srdb.com.np,https://srdb.com.np/
+75,Muktinath Bikas Bank Ltd.,MNBBL,Active,Development Banks,Equity,info@muktinathbank.com.np,
+76,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,Active,Microfinance,Equity,bijay@fmdb.com.np,
+77,Manjushree Finance Ltd.,MFIL,Active,Finance,Equity,info@manjushreefinance.com.np,manjushreefinance.com.np
+78,Nepal Bank Limited,NBL,Active,Commercial Banks,Equity,suresh.ghimire@nepalbank.com.np,
+79,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,Active,Microfinance,Equity,info@slbbl.com,
+80,NLG Insurance Company Ltd.,NLG,Active,Non Life Insurance,Equity,manoj.shrestha@nlgi.com.np,
+81,Sindhu Bikash Bank Ltd,SINDU,Active,Development Banks,Equity,info@sindhubank.com.np,
+82,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,Active,Microfinance,Equity,info@grameenbanknepal.com,http://www.grameenbanknepal.com
+83,Reliance Finance Ltd.,RLFL,Active,Finance,Equity,samaj@reliancenepal.com.np,
+84,Sanima Mai Hydropower Ltd.,SHPC,Active,Hydro Power,Equity,sanimamai@sanimahydro.com,www.maihydro.com
+85,Naya Sarathi Laghubitta Bittiya Sanstha Limited,NSLB,Active,Microfinance,Equity,nimdilen@gmail.com,
+86,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,Active,Microfinance,Equity,info@kalikabank.com.np,
+87,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,Active,Microfinance,Equity,mlboperationdepart@gmail.com,http://www.mldbank.com.np
+88,Ridi Power Company Limited,RIDI,Active,Hydro Power,Equity,alok.kc4@gmail.com,
+89,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,Active,Microfinance,Equity,prakash.sharma@laxmilaghu.com.np,
+90,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,Active,Microfinance,Equity,info@mirmirebank.com.np,http://www.mirmirebank.com.np
+91,Barun Hydropower Co. Ltd.,BARUN,Active,Hydro Power,Equity,barunhydro@gmail.com,
+92,Vijaya laghubitta Bittiya Sanstha Ltd.,VLBS,Active,Microfinance,Equity,nsapkota@vlbs.com.np,
+93,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,Active,Microfinance,Equity,info@civillaghubitta.com.np,www.civillaghubitta.com.np
+94,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,Active,Microfinance,Equity,nrnmfiho@gmail.com,
+95,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,Active,Microfinance,Equity,info@jucbank.com.np,
+96,Api Power Company Ltd.,API,Active,Hydro Power,Equity,srijanadangal@gmail.com,
+97,NMB Microfinance Bittiya Sanstha Ltd.,NMBMF,Active,Microfinance,Equity,govinda.banstola@nmbmicrofinance.com,http://www.cleanvillage.com.np
+98,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,Active,Microfinance,Equity,kiran.rmfi@gmail.com,http://www.reliablebank.com.np
+99,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,Active,Microfinance,Equity,womimf@gmail.com,
+100,Global IME Samunnat Scheme-1,GIMES1,Active,Commercial Banks,Mutual Funds,nlisting@gibl.com.np,http://www.globalimebank.com
+101,Mero Microfinance Bittiya Sanstha Ltd.,MERO,Active,Microfinance,Equity,meromicrofinance@gmail.com,
+102,Hydorelectricity Investment and Development Company Ltd,HIDCL,Active,Investment,Equity,jbasnet@hidcl.org.np,www.hidcl.org.np
+103,Ngadi Group Power Ltd.,NGPL,Active,Hydro Power,Equity,nyadigroup06@gmail.com,
+104,Green Development Bank Ltd.,GRDBL,Active,Development Banks,Equity,info@greenbank.com.np,
+105,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,Active,Microfinance,Equity,info@rsdcmf.com,
+106,Khanikhola Hydropower Co. Ltd.,KKHC,Active,Hydro Power,Equity,khanikhola.hpc@gmail.com,
+107,NMB Hybrid Fund L-1,NMBHF1,Active,Commercial Banks,Mutual Funds,pramod.dahal@nmb.com.np,http://www.nmb.com.np
+108,Dibyashwori Hydropower Ltd.,DHPL,Active,Hydro Power,Equity,dibyashwarihydropower@gmail.com,
+109,NIBL Pragati Fund,NIBLPF,Active,Commercial Banks,Mutual Funds,NIBL.Nepse@nibl.com.np,http://www.nibl.com.np
+110,Arun Kabeli Power Ltd.,AKPL,Active,Hydro Power,Equity,info@arunkabeli.com,
+111,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,Active,Microfinance,Equity,krishna@forward.org.np,
+112,Synergy Power Development Ltd.,SPDL,Active,Hydro Power,Equity,email.synergy@gmail.com,www.synergyhydro.com
+113,United Modi Hydropower Ltd.,UMHL,Active,Hydro Power,Equity,navaraj.advocate@gmail.com,
+114,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,Active,Microfinance,Equity,samata@samata.org.np,
+115,Laxmi Equity Fund,LEMF,Active,Commercial Banks,Mutual Funds,piyush.aryal@laxmibank.com,
+116,Chhyangdi Hydropower Ltd.,CHL,Active,Hydro Power,Equity,chhyangdihydropowerltd@gmail.com,
+117,Himalayan Power Partner Ltd.,HPPL,Active,Hydro Power,Equity,hpphydro.binaya@gmail.com,http://www.hpp.com.np
+118,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,Active,Microfinance,Equity,saroj.singh@mslbsl.com.np,
+119,Nepal Hydro Developers Ltd.,NHDL,Active,Hydro Power,Equity,info@charnawathihydro.com,
+120,Siddhartha Equity Fund,SEF,Active,Commercial Banks,Mutual Funds,laxman.ghimire@sbl.com.np,
+121,Support Microfinance Bittiya Sanstha Ltd.,SMB,Active,Microfinance,Equity,smicrofinance@gmail.com,
+122,Sanima Equity Fund,SAEF,Active,Commercial Banks,Mutual Funds,sanima@sanimageneral.com,
+123,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,Active,Microfinance,Equity,prem.pathak@unnatimfi.com.np,http://www.unnatimfi.com.np
+124,Radhi Bidyut Company Ltd,RADHI,Active,Hydro Power,Equity,info@radhibidyut.com.np,
+125,NIC Asia Growth Fund,NICGF,Active,Commercial Banks,Mutual Funds,nica.nots@nicasiabank.com,
+126,Citizens Mutual Fund -1,CMF1,Active,Commercial Banks,Mutual Funds,rajendra.shrestha@ctznbank.com,
+127,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,Active,Microfinance,Equity,nepalseva@gmail.com,
+128,Panchakanya Mai Hydropower Ltd,PMHPL,Active,Hydro Power,Equity,panchakanyamai@gmail.com,
+129,Kalika power Company Ltd,KPCL,Active,Hydro Power,Equity,daraudikalikahydro@gmail.com,
+130,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,Active,Hydro Power,Equity,ankhukhola@yahoo.com,www.aankhukholahydropower.com.np
+131,Joshi Hydropower Development Company Ltd,JOSHI,Active,Hydro Power,Equity,info@joshihydropower.com,www.joshihydropower.com
+132,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,Active,Microfinance,Equity,aarambhachautari@gmail.com,www.chautarimfb.com
+133,Upper Tamakoshi Hydropower Ltd,UPPER,Active,Hydro Power,Equity,neautp@mos.com.np,www.tamakhosihydro.org.np
+134,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,Active,Microfinance,Equity,samudayikbank@gmail.com,www.samudayikbank.com.np
+135,Ghalemdi Hydro Limited,GHL,Active,Hydro Power,Equity,relinarenergy@gmail.com,www.ghalemdihydro.com
+136,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,Active,Microfinance,Equity,ashamicrofinance@gmail.com,www.ashamicrofinance.com.np
+137,SHIVAM CEMENTS LTD,SHIVM,Active,Manufacturing And Processing,Equity,info@shivamcement.com,www.shivamcement.com
+138,UNIVERSAL POWER COMPANY LTD,UPCL,Active,Hydro Power,Equity,universal2067@gmail.com,www.universalpowercompany.com.np
+139,Mountain Hydro Nepal Limited,MHNL,Active,Hydro Power,Equity,mountainhydronepal@gmail.com,www.mountainhydronepal.com.np
+140,Panchthar Power Compant Limited,PPCL,Active,Hydro Power,Equity,ppchewa@gmail.com,www.ppcl.com.np
+141,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,Active,Microfinance,Equity,info@ganapatimicro.com.np,www.ganapatimicro.com.np
+142,Himalaya Urja Bikas Company Limited,HURJA,Active,Hydro Power,Equity,himalayaurja@gmail.com,www.himalurja.com
+143,10% NIC Asia Debenture 2085/86,NICAD 85/86,Active,Commercial Banks,Non-Convertible Debentures,nica.nots@nicasiabank.com,
+144,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,Active,Microfinance,Equity,guranslbbs@gmail.com,www.guranslaghubitta.com.np
+145,10% Sanima Bank Limited Debenture,SAND2085,Active,Commercial Banks,Non-Convertible Debentures,sanima@sanimageneral.com,
+146,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,Active,Microfinance,Equity,swabhimaansmbsl@gmail.com,www.swabhimaanmicrofinance.com
+147,Union Hydropower Limited,UNHPL,Active,Hydro Power,Equity,unionhppl@gmail.com,www.unionhydropower.com.np
+148,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,Active,Microfinance,Equity,ilbslfinance@gmail.com,www.infinitymbsl.com
+149,10% Sunrise Debenture 2080,SRD80,Active,Commercial Banks,Non-Convertible Debentures,info@sunrisebank.com.np,
+150,10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81,GBD80/81,Active,Commercial Banks,Non-Convertible Debentures,nlisting@gibl.com.np,http://www.globalimebank.com
+151,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,Active,Hydro Power,Equity,rghpcl@gmail.com,www.rghpcl.com.np
+152,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,Active,Hydro Power,Equity,sanjenhcl@gmail.com,www.sjcl.com.np
+153,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,Active,Microfinance,Equity,info@sabaikolaghubitta.com,www.sabaikolaghubitta.com
+154,10 % NMB DEBENTURE 2085,NMBD2085,Active,Commercial Banks,Non-Convertible Debentures,pramod.dahal@nmb.com.np,http://www.nmb.com.np
+155,10.5 % NEPAL INVESTMENT DEBENTURE 2082,NIBD2082,Active,Commercial Banks,Non-Convertible Debentures,NIBL.Nepse@nibl.com.np,http://www.nibl.com.np
+156,10.25% NBBL Debenture 2085,NBBD2085,Active,Commercial Banks,Non-Convertible Debentures,bishwapoudel@nbbl.com.np,
+157,Siddhartha Investment Growth Scheme - 2,SIGS2,Active,Commercial Banks,Mutual Funds,laxman.ghimire@sbl.com.np,
+158,Saptakoshi Development Bank Ltd,SAPDBL,Active,Development Banks,Equity,info@skdbl.com.np,www.skdbl.com.np
+159,CITIZENS MUTUAL FUND 2,CMF2,Active,Mutual Fund,Mutual Funds,info@cbilcapital.com,www.cbilcapital.com
+160,NIC Asia Balanced Fund,NICBF,Active,Mutual Fund,Mutual Funds,info@nicasiacapital.com,www.nicasiacapital.com
+161,10.25% SBL Debenture 2083,SBLD83,Active,Commercial Banks,Non-Convertible Debentures,laxman.ghimire@sbl.com.np,
+162,10.25% Machhapuchhre Bank Debenture 2085,MBLD2085,Active,Commercial Banks,Non-Convertible Debentures,machbank@mbl.com.np,http://www.machbank.com
+163,NMB 50,NMB50,Active,Mutual Fund,Mutual Funds,mutualfunds@nmbcl.com.np,www.nmbcl.com.np
+164,10.25% NIC Asia Debenture 2083/84,NICD83/84,Active,Commercial Banks,Non-Convertible Debentures,nica.nots@nicasiabank.com,
+165,11% NIC Asia Debenture 082/83,NICAD8283,Active,Commercial Banks,Non-Convertible Debentures,nica.nots@nicasiabank.com,
+166,8% BOK Debenture 2079,BOKD2079,Active,Commercial Banks,Non-Convertible Debentures,deepak.gautam@bok.com.np,
+167,10.50% SBL Debenture 2082,SBLD2082,Active,Commercial Banks,Non-Convertible Debentures,laxman.ghimire@sbl.com.np,
+168,10% Himalayan Bank Debenture 2083,HBLD83,Active,Commercial Banks,Non-Convertible Debentures,legal@himalayanbank.com,
+169,10.25% Prabhu Bank Debenture 2086,PBLD86,Active,Commercial Banks,Non-Convertible Debentures,amit.bhandari@prabhubank.com,
+170,Sunrise First Mutual Fund,SFMF,Active,Commercial Banks,Mutual Funds,info@sunrisebank.com.np,
+171,10.25% Sunrise Bank Debenture 2083,SRBLD83,Active,Commercial Banks,Non-Convertible Debentures,info@sunrisebank.com.np,
+172,10% Laxmi Bank Debenture 2086,LBLD86,Active,Commercial Banks,Non-Convertible Debentures,piyush.aryal@laxmibank.com,
+173,Himal Dolakha Hydropower Company Limited,HDHPC,Active,Hydro Power,Equity,hdhp@wlink.com.np,www.himaldolakhahydro.com
+174,Nepal Reinsurance Company Limited,NRIC,Active,Others,Equity,nepalre@ntc.net.np,www.nepalre.com.np
+175,12% ICFC Finance Limited Debenture 2083,ICFCD83,Active,Finance,Non-Convertible Debentures,nepsereport@icfcbank.com,www.icfcbank.com
+176,12 % Goodwill Finance Limited Debenture 2083,GWFD83,Active,Finance,Non-Convertible Debentures,gfcl@gfcl.com,
+177,10.25% KBL Debenture 2086,KBLD86,Active,Commercial Banks,Non-Convertible Debentures,info@kumaribank.com,http://www.kumaribank.com
+178,10.35% Agricultural Bank Debenture 2083,ADBLD83,Active,Commercial Banks,Non-Convertible Debentures,cs@adbl.gov.np,
+179,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,Active,Microfinance,Equity,prahlad.niraula@nicasiabank.com,www.nicasialaghubitta.com
+180,10.25% Citizens Bank Debenture 2086,CIZBD86,Active,Commercial Banks,Non-Convertible Debentures,rajendra.shrestha@ctznbank.com,
+181,10% Nepal SBI Bank Debenture 2086,SBIBD86,Active,Commercial Banks,Non-Convertible Debentures,cs@nsbl.com.np,https://nsbl.statebank
+182,10% Nabil Debenture 2082,NBLD82,Active,Commercial Banks,Non-Convertible Debentures,rajesh.bogati@nabilbank.com,
+183,9% NIC Asia Debenture 2081/82,NICAD8182,Active,Commercial Banks,Non-Convertible Debentures,nica.nots@nicasiabank.com,
+184,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,Active,Microfinance,Equity,resham.sadhana@gmail.com,www.sadhanlaghubitta.com.np
+185,NRN Infrastructure and Development Limited,NRN,Active,Investment,Equity,nrninvestmentltd@gmail.com,www.nrinl.com
+186,Laxmi Unnati Kosh,LUK,Active,Mutual Fund,Mutual Funds,info@laxmicapital.com.np,www.laxmicapital.com.np
+187,Liberty Energy Company Limited,LEC,Active,Hydro Power,Equity,liberty@libertyenergy.com.np,www.libertyenergy.com.np
+188,10% Prabhu Bank Debenture 2084,PBLD84,Active,Commercial Banks,Non-Convertible Debentures,amit.bhandari@prabhubank.com,
+189,Shiva Shree Hydropower Ltd,SSHL,Active,Hydro Power,Equity,shivashreehydropowerltd@gmail.com,www.shivashreehdyro.com
+190,8.5% SBL Debenture 2084,SBLD84,Active,Commercial Banks,Non-Convertible Debentures,laxman.ghimire@sbl.com.np,
+191,Mountain Energy Nepal Limited,MEN,Active,Hydro Power,Equity,rajendra.sharma@mountainenergy.com.np,www.mountainenergy.com.np
+192,United IDI Mardi RB Hydropower Limited.,UMRH,Active,Hydro Power,Equity,unitedidimardi7mw@gmail.com,www.idimardihydro.com.np
+193,Chandragiri Hills Limited,CGH,Active,Hotels And Tourism,Equity,jhalak.sharma@chandragirihills.com,www.chandragirihills.com
+194,Nepal Infrastructure Bank Limited,NIFRA,Active,Investment,Equity,iswor.gautam@nifrabank.com,https://www.nifrabank.com
+195,8.5% Sanima Debenture 2087,SBD87,Active,Commercial Banks,Non-Convertible Debentures,sanima@sanimageneral.com,
+196,Sanima Large Cap Fund,SLCF,Active,Commercial Banks,Mutual Funds,sanima@sanimageneral.com,
+197,GreenLife Hydropower Limited,GLH,Active,Hydro Power,Equity,info@greenlifehydropower.com.np,www.greenlifehydropower.com.np
+198,Mahila Lagubitta Bittiya Sanstha Limited,MLBSL,Active,Microfinance,Equity,mlbsl.nepal@gmail.com,www.mlbsl.com.np
+199,8.5% Nepal Investment Bank Debenture 2084,NIBD84,Active,Commercial Banks,Non-Convertible Debentures,NIBL.Nepse@nibl.com.np,http://www.nibl.com.np
+200,9.5% Manjushree Finance Limited Debenture 2085,MFLD85,Active,Finance,Non-Convertible Debentures,info@manjushreefinance.com.np,manjushreefinance.com.np
+201,Kumari Equity Fund,KEF,Active,Commercial Banks,Mutual Funds,info@kumaribank.com,http://www.kumaribank.com
+202,Singati Hydro Energy Limited,SHEL,Active,Hydro Power,Equity,shehydro@gmail.com,www.singatihydro.com
+203,Ru Ru Jalbidhyut Pariyojana Limited,RURU,Active,Hydro Power,Equity,contact@ruruhydro.com,www.ruruhydro.com
+204,9.5% NCC Debenture 2086,NCCD86,Active,Commercial Banks,Non-Convertible Debentures,corporate@nccbank.com.np,http://www.nccbank.com.np
+205,Sunrise Bluechip Fund,SBCF,Active,Commercial Banks,Mutual Funds,info@sunrisebank.com.np,
+206,CEDB Hydropower Development Company Limited,CHDC,Active,Investment,Equity,chf@chf.com.np,www.chdc.com.np
+207,Prabhu Select Fund,PSF,Active,Commercial Banks,Mutual Funds,amit.bhandari@prabhubank.com,
+208,9% Kamana Sewa Bikas Bank Limited Debenture 2087,KSBBLD87,Active,Development Banks,Non-Convertible Debentures,cs@kamanasewabank.com,
+209,NIBL Samriddhi Fund -2,NIBSF2,Active,Commercial Banks,Mutual Funds,NIBL.Nepse@nibl.com.np,http://www.nibl.com.np
+210,Jeevan Bikas Laghubitta Bittya Sanstha Ltd,JBLB,Active,Microfinance,Equity,info@jeevanbikasmf.com,www.jeevanbikasmf.com
+211,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,Active,Microfinance,Equity,manakamanalbs@gmail.com,www.manakamanalbs.com
+212,8.5% Nepal Bank Debenture 2087,NBLD87,Active,Commercial Banks,Non-Convertible Debentures,suresh.ghimire@nepalbank.com.np,
+213,4% Agricultural Bond,ADBLB,Active,Commercial Banks,Non-Convertible Debentures,cs@adbl.gov.np,
+214,8.5% BOK Debenture 2086,BOKD86,Active,Commercial Banks,Non-Convertible Debentures,deepak.gautam@bok.com.np,
+215,8.5% Prabhu Bank Debenture 2087,PBLD87,Active,Commercial Banks,Non-Convertible Debentures,amit.bhandari@prabhubank.com,
+216,NMB Debenture 8.50% - 2087/88,NMBD87/88,Active,Commercial Banks,Non-Convertible Debentures,pramod.dahal@nmb.com.np,http://www.nmb.com.np
+217,NMB Energy Bond 4% - 2092/93,NMBEB92/93,Active,Commercial Banks,Non-Convertible Debentures,pramod.dahal@nmb.com.np,http://www.nmb.com.np
+218,NIC Asia Select Fund 30,NICSF,Active,Mutual Fund,Mutual Funds,info@nicasiacapital.com,www.nicasiacapital.com
+219,RBB Mutual Fund 1,RMF1,Active,Mutual Fund,Mutual Funds,rbbmbl@rbbmbl.com.np,www.rbbmbl.com.np
+220,Muktinath Debenture 2084/85,MND84/85,Active,Development Banks,Non-Convertible Debentures,info@muktinathbank.com.np,
+221,8.5% Laxmi Bank Debenture 2088,LBLD88,Active,Commercial Banks,Non-Convertible Debentures,piyush.aryal@laxmibank.com,
+222,8.75 % Prime Debenture 2085,PBD85,Active,Commercial Banks,Non-Convertible Debentures,CS@pcbl.com.np,
+223,Shangri-la Development Bank Debenture 2087,SDBD87,Active,Development Banks,Non-Convertible Debentures,info@shangrilabank.com,
+224,8.5% Machhapuchchhre Debenture 2087,MBLD87,Active,Commercial Banks,Non-Convertible Debentures,machbank@mbl.com.np,http://www.machbank.com
+225,NIC ASIA Rinpatra 2088,NICD88,Active,Commercial Banks,Non-Convertible Debentures,nica.nots@nicasiabank.com,
+226,8.5% RBBL Debenture 2083,RBBD83,Active,Commercial Banks,Non-Convertible Debentures,info.rbb@rbb.com.np,www.rbb.com.np
+227,Global IME Bank Limited Debenture 2086/87,GBILD86/87,Active,Commercial Banks,Non-Convertible Debentures,nlisting@gibl.com.np,http://www.globalimebank.com
+228,Mailung Khola Jal Vidhyut Company Limited,MKJC,Active,Hydro Power,Equity,mailu@wlink.cpm.np,www.mailunhkhola.cpm
+229,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,Active,Microfinance,Equity,info@manushilbs.com.np,https://www.manushilbs.com
+230,Jyoti Bikash Bank Bond 2087,JBBD87,Active,Development Banks,Non-Convertible Debentures,krishna.oasti@jbbl.com.np,
+231,Sahas Urja Limited,SAHAS,Active,Hydro Power,Equity,surja@sahasurja.com,www.sahasurja.com
+232,Terhathum Power Company Limited,TPC,Active,Hydro Power,Equity,terathumpc@gmail.com,www.terhathumpc.com
+233,Mega Mutual Fund -1,MMF1,Active,Commercial Banks,Mutual Funds,nepse@megabank.com.np,
+234,Nabil Balanced Fund-3,NBF3,Active,Commercial Banks,Mutual Funds,rajesh.bogati@nabilbank.com,
+235,Samling Power Company Limited,SPC,Active,Hydro Power,Equity,info@urjadeveloper.com,spcl.com.np
+236,Nyadi Hydropower Limited,NYADI,Active,Hydro Power,Equity,nhl@nhl.com.np,www.nhl.com.np
+237,Nabil Debenture 2085,NBLD85,Active,Commercial Banks,Non-Convertible Debentures,rajesh.bogati@nabilbank.com,
+238,Agricultural Bond (8 Year),ADBLB86,Active,Commercial Banks,Non-Convertible Debentures,cs@adbl.gov.np,
+239,Agricultural Bond (9 Year),ADBLB87,Active,Commercial Banks,Non-Convertible Debentures,cs@adbl.gov.np,
+240,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,Active,Hydro Power,Equity,admin@mbjcl.com.np,www.mbjcl.com.np
+241,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,Active,Hydro Power,Equity,lowertadi@gmail.com,https://buddhabhumihydro.com/
+242,"Garima Debenture, 2085",GBBD85,Active,Development Banks,Non-Convertible Debentures,info@garimabank.com.np,
+243,Emerging Nepal Limited,ENL,Active,Investment,Equity,mail@emergingnep.com,https://www.emergingnep.com
+244,Rastra Utthan Laghubitta Sanstha Limited,RULB,Active,Microfinance,Equity,info@rulbsl.com.np,www.rulbsl.com.np
+245,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,JALPA,Active,Microfinance,Equity,info@jalpamf.com.np,www.jalpamf.com.np
+246,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,Active,Microfinance,Equity,nesdosmfi@gmail.com,https://slbs.nesdonepal.org
+247,Civil Bank Debenture 2088,CBLD88,Active,Commercial Banks,Non-Convertible Debentures,hirakaji.basnet@civilbank.com.np,
+248,Everest Bank Limited,EBLD86,Active,Commercial Banks,Non-Convertible Debentures,sharedept@ebl.com.np,
+249,Green Ventures Limited,GVL,Active,Hydro Power,Equity,frontdesk@trivenihydro.com,www.greenventuresnepal.com
+250,Balephi Hydropower Limited,BHL,Active,Hydro Power,Equity,info.balephi@gmail.com,www.balephihydro.com
+251,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,Active,Microfinance,Equity,upakar.banke1@gmail.com,www.ulbsl.com.np
+252,River Falls Power Limited,RFPL,Active,Hydro Power,Equity,riverfallshydropower@gmail.com,www.riverfallshydro.com.np
+253,Century Debenture 2088,CCBD88,Active,Commercial Banks,Non-Convertible Debentures,welcome@centurybank.com.np,
+254,Dordi Khola Jal Bidyut Company Limited,DORDI,Active,Hydro Power,Equity,info@dordikhola.com.np,www.dordikhola.com.np
+255,NIC Asia Flexi CAP Fund,NICFC,Active,Commercial Banks,Mutual Funds,nica.nots@nicasiabank.com,
+256,Kumari Dhanabriddhi Yojana,KDBY,Active,Commercial Banks,Mutual Funds,info@kumaribank.com,http://www.kumaribank.com
+257,Bindhyabasini Hydropower Development Company Limited,BHDC,Active,Hydro Power,Equity,info.bhdc@rmgroup.com.np,https://bindhyabasinihydro.com.np
+258,Himalayan Hydropower Limited,HHL,Active,Hydro Power,Equity,himalayanhydro2021@gmail.com,www.hhpl.com.np
+259,10% Prime Debenture 2088,PBD88,Active,Commercial Banks,Non-Convertible Debentures,CS@pcbl.com.np,
+260,10.75% SBL Debenture 2089,SBLD89,Active,Commercial Banks,Non-Convertible Debentures,laxman.ghimire@sbl.com.np,
+261,Upper Hewakhola Hydropower Company Limited,UHEWA,Active,Hydro Power,Equity,upperhewahpc@gmail.com,upperhewahpc.com.np
+262,Swet-Ganga Hydropower & Construction Limited,SGHC,Active,Hydro Power,Equity,sghcl@sanimahydro.com,www.swetgangahydropower.com
+263,Mandakini Hydropower Limited,MHL,Active,Hydro Power,Equity,mandakini.hydropower@gmail.com,www.mandakinihydro.com.np
+264,Upper Solu Hydro Electric Company Limited,USHEC,Active,Hydro Power,Equity,ushec@info.com.np,www.ushec.com.np
+265,NMB Energy Bond 4% - 2093/94,NMBUR93/94,Active,Commercial Banks,Non-Convertible Debentures,pramod.dahal@nmb.com.np,http://www.nmb.com.np
+266,Global IME Balanced Fund-1,GIBF1,Active,Mutual Fund,Mutual Funds,gimeb1@gicl.com.np,www.globalimecapital.com
+267,Rapti Hydro And General Construction Limited,RHGCL,Active,Hydro Power,Equity,info@raptihydro.com.np,www.raptihydro.com.np
+268,10.25% Sanima Debenture 2089,SBD89,Active,Commercial Banks,Non-Convertible Debentures,sanima@sanimageneral.com,
+269,10.25% Nepal SBI Bank Debenture 2083,SBID83,Active,Commercial Banks,Non-Convertible Debentures,cs@nsbl.com.np,https://nsbl.statebank
+270,10.15% Prime Debenture 2084,PBD84,Active,Commercial Banks,Non-Convertible Debentures,CS@pcbl.com.np,
+271,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,Active,Microfinance,Equity,aviyanlaghu@gmail.com,https://www.aviyanlaghubitta.com/
+272,10.50% Everest Bank Limited Debenture 2085,EBLD85,Active,Commercial Banks,Non-Convertible Debentures,sharedept@ebl.com.np,
+273,Sayapatri Hydropower Limited,SPHL,Active,Hydro Power,Equity,info@sayapatrihydropower.com,www.sayapatrihydropower.com
+274,People's Power Limited,PPL,Active,Hydro Power,Equity,peoplespowerltd@gmail.com,www.peoplespower.com.np
+275,Dhaulagiri Laghubitta Bittiya Sanstha Limited,DLBS,Active,Microfinance,Equity,dlbsbank.headoffice@gmail.com,www.dhaulagiribank.com
